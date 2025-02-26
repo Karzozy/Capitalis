@@ -1,7 +1,8 @@
 # Capitalis-Repository
-Repositorio de capitalis, software de gestion empresarial.
-By David Santiago Arias Narvaez, 
-Juan Sebastian Ceron Paz, 
-Juan Sebastian Latorre Pantoja, 
-Kevin Yesid Castaño Herrera, 
-Ricardo Delgado Urbano.
+## Repositorio de capitalis, software de gestion empresarial.
+ > By David Santiago Arias Narvaez,<br/>
+   Juan Sebastian Ceron Paz,<br/>
+  Juan Sebastian Latorre Pantoja,<br/> 
+  Kevin Yesid Castaño Herrera,<br/> 
+  Ricardo Delgado Urbano.
+
