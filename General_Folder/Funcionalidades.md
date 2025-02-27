@@ -1,3 +1,4 @@
+# Funcionalidades
 Creación y gestión de una cuenta personal. <br/>
 Registro de ingresos y egresos. <br/>
 Cálculo de promedios mensuales del capital disponible. <br/>
