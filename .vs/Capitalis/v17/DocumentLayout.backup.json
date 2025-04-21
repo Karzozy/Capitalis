@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keyec\\Documents\\Capitalis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|C:\\Users\\keyec\\Documents\\Capitalis\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|solutionrelative:historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|C:\\Users\\keyec\\Documents\\Capitalis\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|solutionrelative:menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|C:\\Users\\keyec\\Documents\\Capitalis\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|solutionrelative:menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|C:\\Users\\keyec\\Documents\\Capitalis\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|solutionrelative:historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|c:\\users\\keyec\\documents\\capitalis\\controlregistros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|solutionrelative:controlregistros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|C:\\Users\\keyec\\Documents\\Capitalis\\controlregistros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|solutionrelative:controlregistros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|c:\\users\\keyec\\documents\\capitalis\\controlregistros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|solutionrelative:controlregistros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|C:\\Users\\keyec\\Documents\\Capitalis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFA4E01-129E-4C66-98BA-C627ED9ED254}|Capitalis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlRegistros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\keyec\\Documents\\Capitalis\\ControlRegistros.cs",
+              "RelativeDocumentMoniker": "ControlRegistros.cs",
+              "ToolTip": "C:\\Users\\keyec\\Documents\\Capitalis\\ControlRegistros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ControlRegistros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:39:05.062Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Historial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\keyec\\Documents\\Capitalis\\Historial.cs",
+              "RelativeDocumentMoniker": "Historial.cs",
+              "ToolTip": "C:\\Users\\keyec\\Documents\\Capitalis\\Historial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Historial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:07:03.612Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Historial.cs",
+              "DocumentMoniker": "C:\\Users\\keyec\\Documents\\Capitalis\\Historial.cs",
+              "RelativeDocumentMoniker": "Historial.cs",
+              "ToolTip": "C:\\Users\\keyec\\Documents\\Capitalis\\Historial.cs",
+              "RelativeToolTip": "Historial.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:07:15.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\keyec\\Documents\\Capitalis\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\keyec\\Documents\\Capitalis\\MenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:14:55.197Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\keyec\\Documents\\Capitalis\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\keyec\\Documents\\Capitalis\\MenuPrincipal.cs",
+              "RelativeToolTip": "MenuPrincipal.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:14:58.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControlRegistros.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\keyec\\Documents\\Capitalis\\ControlRegistros.Designer.cs",
+              "RelativeDocumentMoniker": "ControlRegistros.Designer.cs",
+              "ToolTip": "C:\\Users\\keyec\\Documents\\Capitalis\\ControlRegistros.Designer.cs",
+              "RelativeToolTip": "ControlRegistros.Designer.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAlwCoBAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:39:15.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControlRegistros.cs",
+              "DocumentMoniker": "C:\\Users\\keyec\\Documents\\Capitalis\\ControlRegistros.cs",
+              "RelativeDocumentMoniker": "ControlRegistros.cs",
+              "ToolTip": "C:\\Users\\keyec\\Documents\\Capitalis\\ControlRegistros.cs",
+              "RelativeToolTip": "ControlRegistros.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:41:05.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keyec\\Documents\\Capitalis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\keyec\\Documents\\Capitalis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T00:26:29.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
