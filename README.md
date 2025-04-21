@@ -1,5 +1,5 @@
 # Capitalis-Repository
-## Repositorio de capitalis, software de gestion empresarial.
+## Repositorio de capitalis, software de gestion presupuestal.
  > By David Santiago Arias Narvaez,<br/>
    Juan Sebastian Ceron Paz,<br/>
   Juan Sebastian Latorre Pantoja,<br/> 
